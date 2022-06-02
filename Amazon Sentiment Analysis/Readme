@@ -1,0 +1,6 @@
+
+Goal: Build, train, test and deploy an AI model to predict sentiment from real Amazon Echo customer reviews.
+
+TOOL: python, Scikit-Learn, Matplotlib, Seaborn
+
+DATA: Inputs: Amazon reviews Output: Sentiment (0 or 1)
